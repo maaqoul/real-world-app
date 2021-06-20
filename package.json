@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "feather-icons": "^4.28.0",
+    "loadash": "^1.0.0",
     "node-sass": "^6.0.0",
     "sass-loader": "^12.1.0",
     "vue": "^2.6.11",
